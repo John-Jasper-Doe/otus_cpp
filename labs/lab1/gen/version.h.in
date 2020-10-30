@@ -1,0 +1,16 @@
+/**
+ ******************************************************************************
+ * @file   version.h
+ * @author MG
+ * @date   23/12/2018
+ * @brief  Version of the project.
+ ******************************************************************************
+ */
+
+
+#ifndef VERSION_H_
+#define VERSION_H_
+
+#cmakedefine PROJECT_VERSION_PATCH @PROJECT_VERSION_PATCH@
+
+#endif /* VERSION_H_ */
